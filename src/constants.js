@@ -1,50 +1,76 @@
-
 export const services = [
-    {
-        title: "Technology Enthusiast",
-        icon: 'https://csgeeek.github.io/web.png',
-    },
-    {
-        title: "Software Engineer",
-        icon: 'https://csgeeek.github.io/web.png',
-    },
-    {
-        title: "Photographer",
-        icon: 'https://csgeeek.github.io/web.png',
-    },
+  {
+    title: "Technology Enthusiast",
+    icon: "https://csgeeek.github.io/web.png",
+  },
+  {
+    title: "Software Engineer",
+    icon: "https://csgeeek.github.io/web.png",
+  },
+  {
+    title: "Critical Problem Solver",
+    icon: "https://csgeeek.github.io/web.png",
+  },
 ];
 
-export const name = 'Nithin';
+export const name = "Nithin";
 
 export const experiences = [
-    {
-        'company': 'Inncircles Technologies',
-        'role': 'Product Developer',
-        'duration': 'April 2023 - Present',
-        'logo': 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e5gz1yggdy8sc1umna3e',
-        'points': [
-            'Involved in dynamic contributions to web and mobile📱 development projects, actively influencing and improving project outcomes.',
-            'Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.',
-            'Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency 📈.',
-            'Implemented data security for the company’s product to provide role-based access control ⚙️.'
-        ],
-        'url': 'https://inncircles.com/#home',
-    },
-    {
-        'company': 'AT & T',
-        'role': 'Technical Intern',
-        'duration': 'Jan 2023 - March 2023',
-        'logo': 'https://www.att.com/ecms/dam/att/consumer/global/logos/att_globe_500x500.jpg',
-        'points': [
-            'Gained experience with Git version control contributing to the development and maintenance of code repositories.',
-            'Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.'
-        ],
-        'url': 'https://www.att.com/',
-    },
-]
+  {
+    company: "Fulcrum Digital",
+    role: "Junior Delivery Engineer (React Developer)",
+    duration: "Nov 2023 - Present",
+    logo: "https://media.licdn.com/dms/image/C560BAQFs0_WRcGd8Qw/company-logo_200_200/0/1656673169006/fulcrum_digital_logo?e=2147483647&v=beta&t=bL7GbfA7wCueM_B-mk16woYhzqPiIztOj6cR3Mj7BBw",
+    points: [
+      "Working as a software developer(frontend) for Ryze to develop the Enterprise Search application to efficiently process large data files for enterprise level questioning using RAG, OpenAI, Javacript, Reactjs, Redux.js , Nginx.",
+      "Integrated multiple machine learning model endpoints from Huggingface spaces with the UI for efficient rendering of responses from the model.",
+      "Followed Continuous Integration and Continuous Development (CI/CD) pattern of development with Git as a version control tool.",
+      "Working closely with the business and sales team to understand the industry standards and requirements.",
+      "Tech stack : HTML , CSS , Javascript, Reactjs , Redux.js, Git , OpenAI, Tailwind CSS.",
+    ],
+    url: "https://fulcrumdigital.com/",
+  },
+  {
+    company: "Smart Interviews",
+    role: "Student Apprenticeship",
+    duration: "Jul 2023 - Oct 2023",
+    logo: "https://imagedelivery.net/jP_2Cu8opO0otIERyhqaNQ/6ae91311-9b06-4e0a-1758-19b4df5f0500/public",
+    points: [
+      "In depth learning of Data Structures and Algorithms.",
+      //   "Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.",
+    ],
+    url: "https://smartinterviews.in/",
+  },
+  {
+    company: "Cognizant Technology Solutions",
+    role: "Programmer Analyst",
+    duration: "Sept 2021 - July 2023",
+    logo: "data:image/jpeg;base64,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",
+    points: [
+      "Worked as a software developer for Comcast to develop their internal e-commerce application to efficiently process large scale orders and payments of the clients using Javacript, Reactjs, Redux.js , NodeJS, Express..",
+      "Performed integration of multiple back end API's for smooth rendering of dynamic data on to the UI and optimized the application for better user experience.",
+      "Developed and implemented React components using React Router to enhance navigation UX.",
+      "Participated in code reviews to provide constructive feedback and ensure adherence to best practices.",
+      "Worked closely with cross functional Agile teams and stake holders across groups to deliver all the requirements for every sprint.",
+      "Tech stack : HTML , CSS , Javascript, Reactjs , Redux.js, Git",
+    ],
+    url: "https://www.cognizant.com/in/en",
+  },
+  {
+    company: "Cognizant Technology Solutions",
+    role: "Internship",
+    duration: "Apr 2021 - Aug 2023",
+    logo: "data:image/jpeg;base64,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",
+    points: [
+      "Trained and performed real time implementations in Java Full Stack Development using Java Springboot, Hibernate, MySQL , JDBC.",
+      "Containerised the springboot apps using Docker.",
+      "Documentation through swagger.",
+      "Development a full stack E-Commerce springboot app",
+    ],
+    url: "https://www.cognizant.com/in/en",
+  },
+];
 
-
-
-export const EMAIL_JS_SERVICE_ID = 'service_90wb9t5';
-export const EMAIL_JS_TEMPLATE_ID = 'template_8l87rew';
-export const EMAIL_JS_PUBLIC_KEY = 'pHPjc9RGGkF66r86N';
+export const EMAIL_JS_SERVICE_ID = "service_90wb9t5";
+export const EMAIL_JS_TEMPLATE_ID = "template_8l87rew";
+export const EMAIL_JS_PUBLIC_KEY = "pHPjc9RGGkF66r86N";
