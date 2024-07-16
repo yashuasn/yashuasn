@@ -69,11 +69,11 @@ const Navbar = () => {
                 About
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="/projects" onClick={closeMobileMenu}>
                 Projects
               </Link>
-            </li>
+            </li> */}
             <li>
               <Link to="/experience" onClick={closeMobileMenu}>
                 Experince
