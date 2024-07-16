@@ -71,6 +71,6 @@ export const experiences = [
   },
 ];
 
-export const EMAIL_JS_SERVICE_ID = "service_90wb9t5";
-export const EMAIL_JS_TEMPLATE_ID = "template_8l87rew";
-export const EMAIL_JS_PUBLIC_KEY = "pHPjc9RGGkF66r86N";
+export const EMAIL_JS_SERVICE_ID = "service_222di2v";
+export const EMAIL_JS_TEMPLATE_ID = "template_pubo9ue";
+export const EMAIL_JS_PUBLIC_KEY = "gHN19Cj-jeSEMHOUD";
