@@ -20,7 +20,7 @@ export const experiences = [
     company: "Tiger Analytics",
     role: "Senior Analyst - MLE",
     duration: "Oct 2024 - Present",
-    logo: "https://www.google.com/imgres?q=tiger%20analytics&imgurl=https%3A%2F%2Fd2qpirhrfplx04.cloudfront.net%2F979145d3-0993-4549-97b1-7fe675c69f2e.png&imgrefurl=https%3A%2F%2Fwww.interviewquery.com%2Finterview-guides%2Ftiger-analytics-data-scientist&docid=yLwNMnCzfgXKOM&tbnid=nTha0rnsx9S40M&vet=12ahUKEwieyp-o6ZSJAxWGVmwGHcv1BEgQM3oECF8QAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwieyp-o6ZSJAxWGVmwGHcv1BEgQM3oECF8QAA",
+    logo: "https://d2qpirhrfplx04.cloudfront.net/979145d3-0993-4549-97b1-7fe675c69f2e.png",
     points: [
       "Coming soon ... "
     ],
