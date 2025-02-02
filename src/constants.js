@@ -22,7 +22,8 @@ export const experiences = [
     duration: "Oct 2024 - Present",
     logo: "https://d2qpirhrfplx04.cloudfront.net/979145d3-0993-4549-97b1-7fe675c69f2e.png",
     points: [
-      "Coming soon ... "
+      " Currently working on a client engagement for a transformative project related to Monitoring and Observability of ML Models across the clients landscape. The client is one of the largest manufacturers of steel in the world and this will enable them to keep their100’s of ML Models in track with their expected performance.",
+      "Active contributor for Monitoring and Observability module of Tiger MLCore -an MLOps Platform"
     ],
     url: "https://tigeranalytics.com/",
   },
